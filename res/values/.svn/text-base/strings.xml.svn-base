@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LeCarlDrive</string>
+    <string name="action_settings">Settings</string>
+    <string name="driveCarl">Drive leCarl</string>
+    <string name="autoCarl">Autonomous</string>
+    <string name="toggleCarl">Toggle leCarl</string>
+    <string name="fwdSpeed">Speed</string>
+    <string name="turnRate">Turning</string>
+    <string name="Direction">Direction</string>
+    <string name="Forward">Forward</string>
+    <string name="Reverse">Reverse</string>
+    <string name="IRLabel">IR (new) Readings</string>
+    <string name="IRFront">Front</string>
+    <string name="IRRight">Right</string>
+    <string name="IRRightFront">RgtFrnt</string>
+    <string name="IRLeft">Left</string>
+    <string name="IRLeftFront">LftFrnt</string>    
+    <string name="Accel">Accel</string>
+    <string name="Compass">Compass</string>
+    <string name="Gyro">Gyro</string>    
+</resources>
