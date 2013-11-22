@@ -7,6 +7,9 @@ App uses the accelerometer to set pwm commands in order to control the servo and
 
 Good example to see how you can get values from the phone sensors (accelerometer, gyroscope, compass).
 
+For more information, go to:
+http://www.socsci.uci.edu/~jkrichma/CARL/ABR_web/ABR.html
+
 
 Requirements
 ------------
